@@ -1,0 +1,7 @@
+C:\Users\xinyi.kao95\Desktop\github\codewars\AnagramDetection\AnagramDetection\obj\Debug\AnagramDetection.csproj.CoreCompileInputs.cache
+C:\Users\xinyi.kao95\Desktop\github\codewars\AnagramDetection\AnagramDetection\bin\Debug\AnagramDetection.dll.config
+C:\Users\xinyi.kao95\Desktop\github\codewars\AnagramDetection\AnagramDetection\bin\Debug\AnagramDetection.dll
+C:\Users\xinyi.kao95\Desktop\github\codewars\AnagramDetection\AnagramDetection\bin\Debug\AnagramDetection.pdb
+C:\Users\xinyi.kao95\Desktop\github\codewars\AnagramDetection\AnagramDetection\obj\Debug\AnagramDetection.dll
+C:\Users\xinyi.kao95\Desktop\github\codewars\AnagramDetection\AnagramDetection\obj\Debug\AnagramDetection.pdb
+C:\Users\xinyi.kao95\Desktop\github\codewars\AnagramDetection\AnagramDetection\obj\Debug\AnagramDetection.csprojResolveAssemblyReference.cache

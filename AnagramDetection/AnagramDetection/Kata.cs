@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Linq;
 
 namespace AnagramDetection
 {
@@ -10,8 +6,13 @@ namespace AnagramDetection
 	{
 		public static bool IsAnagram(string test, string original)
 		{
-			// your code goes here
-			return false;
+			if (test.Length != original.Length)
+				return false;
+
+			var testOrderBy = string.Concat(test.ToLower().OrderBy(c => c));
+			var originalOrderBy = string.Concat(original.ToLower().OrderBy(c => c));
+
+			return testOrderBy == originalOrderBy;
 		}
 	}
 }

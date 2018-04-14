@@ -1,0 +1,7 @@
+C:\Users\xinyi.kao95\Desktop\github\codewars\SortTheOdd\SortTheOdd\obj\Debug\SortTheOdd.csprojResolveAssemblyReference.cache
+C:\Users\xinyi.kao95\Desktop\github\codewars\SortTheOdd\SortTheOdd\obj\Debug\SortTheOdd.csproj.CoreCompileInputs.cache
+C:\Users\xinyi.kao95\Desktop\github\codewars\SortTheOdd\SortTheOdd\bin\Debug\SortTheOdd.dll.config
+C:\Users\xinyi.kao95\Desktop\github\codewars\SortTheOdd\SortTheOdd\bin\Debug\SortTheOdd.dll
+C:\Users\xinyi.kao95\Desktop\github\codewars\SortTheOdd\SortTheOdd\bin\Debug\SortTheOdd.pdb
+C:\Users\xinyi.kao95\Desktop\github\codewars\SortTheOdd\SortTheOdd\obj\Debug\SortTheOdd.dll
+C:\Users\xinyi.kao95\Desktop\github\codewars\SortTheOdd\SortTheOdd\obj\Debug\SortTheOdd.pdb

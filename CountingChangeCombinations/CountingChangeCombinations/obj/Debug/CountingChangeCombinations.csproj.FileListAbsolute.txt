@@ -1,0 +1,7 @@
+C:\Users\xinyi.kao95\Desktop\github\codewars\CountingChangeCombinations\CountingChangeCombinations\obj\Debug\CountingChangeCombinations.csprojResolveAssemblyReference.cache
+C:\Users\xinyi.kao95\Desktop\github\codewars\CountingChangeCombinations\CountingChangeCombinations\obj\Debug\CountingChangeCombinations.csproj.CoreCompileInputs.cache
+C:\Users\xinyi.kao95\Desktop\github\codewars\CountingChangeCombinations\CountingChangeCombinations\bin\Debug\CountingChangeCombinations.dll.config
+C:\Users\xinyi.kao95\Desktop\github\codewars\CountingChangeCombinations\CountingChangeCombinations\bin\Debug\CountingChangeCombinations.dll
+C:\Users\xinyi.kao95\Desktop\github\codewars\CountingChangeCombinations\CountingChangeCombinations\bin\Debug\CountingChangeCombinations.pdb
+C:\Users\xinyi.kao95\Desktop\github\codewars\CountingChangeCombinations\CountingChangeCombinations\obj\Debug\CountingChangeCombinations.dll
+C:\Users\xinyi.kao95\Desktop\github\codewars\CountingChangeCombinations\CountingChangeCombinations\obj\Debug\CountingChangeCombinations.pdb

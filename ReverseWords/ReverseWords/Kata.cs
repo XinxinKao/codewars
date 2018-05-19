@@ -8,9 +8,22 @@ namespace ReverseWords
 {
 	public class Kata
 	{
-		public static string ReverseWords(string str)
+		public static string ReverseWords(string input)
 		{
-			return string.Empty;
+			if(string.IsNullOrEmpty(input))
+				return string.Empty;
+
+			var result = string.Empty;
+			var splitStrings = input.Split(' ');
+			
+			foreach (var splitString in splitStrings)
+			{
+				var array = splitString.ToCharArray();
+				Array.Reverse(array);
+				result += new string(array) + " ";
+			}
+
+			return result.Trim();
 		}
 	}
 }

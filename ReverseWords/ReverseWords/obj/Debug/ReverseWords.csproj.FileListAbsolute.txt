@@ -1,0 +1,7 @@
+C:\Users\xinyi.kao95\Desktop\github\codewars\ReverseWords\ReverseWords\obj\Debug\ReverseWords.csprojResolveAssemblyReference.cache
+C:\Users\xinyi.kao95\Desktop\github\codewars\ReverseWords\ReverseWords\obj\Debug\ReverseWords.csproj.CoreCompileInputs.cache
+C:\Users\xinyi.kao95\Desktop\github\codewars\ReverseWords\ReverseWords\bin\Debug\ReverseWords.dll.config
+C:\Users\xinyi.kao95\Desktop\github\codewars\ReverseWords\ReverseWords\bin\Debug\ReverseWords.dll
+C:\Users\xinyi.kao95\Desktop\github\codewars\ReverseWords\ReverseWords\bin\Debug\ReverseWords.pdb
+C:\Users\xinyi.kao95\Desktop\github\codewars\ReverseWords\ReverseWords\obj\Debug\ReverseWords.dll
+C:\Users\xinyi.kao95\Desktop\github\codewars\ReverseWords\ReverseWords\obj\Debug\ReverseWords.pdb

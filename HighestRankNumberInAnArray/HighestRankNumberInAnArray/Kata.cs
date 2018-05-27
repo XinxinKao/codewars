@@ -25,6 +25,8 @@ namespace HighestRankNumberInAnArray
 				}
 			}
 			return dic.LastOrDefault(x => x.Value == dic.Values.Max()).Key;
-	    }
+
+			//return arr.GroupBy(x => x).OrderBy(x => x.Count()).ThenBy(x => x.Key).Last().Key;
+		}
 	}
 }

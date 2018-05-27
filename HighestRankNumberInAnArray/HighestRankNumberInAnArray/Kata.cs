@@ -1,16 +1,30 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace HighestRankNumberInAnArray
 {
     public class Kata
     {
 		public static int HighestRank(int[] arr)
-	    {
-		    return 0;
+		{
+			if (arr.Length == 0)
+				return 0;
+
+			Array.Sort(arr);
+			var dic = new Dictionary<int,int>();
+			foreach (var item in arr)
+			{
+				if (dic.ContainsKey(item))
+				{
+					dic[item] += 1;
+				}
+				else
+				{
+					dic.Add(item, 1);
+				}
+			}
+			return dic.LastOrDefault(x => x.Value == dic.Values.Max()).Key;
 	    }
 	}
 }

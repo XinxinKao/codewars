@@ -1,0 +1,6 @@
+C:\Users\xinyi.kao95\Desktop\github\codewars\HighestRankNumberInAnArray\HighestRankNumberInAnArray\bin\Debug\HighestRankNumberInAnArray.dll
+C:\Users\xinyi.kao95\Desktop\github\codewars\HighestRankNumberInAnArray\HighestRankNumberInAnArray\bin\Debug\HighestRankNumberInAnArray.pdb
+C:\Users\xinyi.kao95\Desktop\github\codewars\HighestRankNumberInAnArray\HighestRankNumberInAnArray\obj\Debug\HighestRankNumberInAnArray.csprojResolveAssemblyReference.cache
+C:\Users\xinyi.kao95\Desktop\github\codewars\HighestRankNumberInAnArray\HighestRankNumberInAnArray\obj\Debug\HighestRankNumberInAnArray.csproj.CoreCompileInputs.cache
+C:\Users\xinyi.kao95\Desktop\github\codewars\HighestRankNumberInAnArray\HighestRankNumberInAnArray\obj\Debug\HighestRankNumberInAnArray.dll
+C:\Users\xinyi.kao95\Desktop\github\codewars\HighestRankNumberInAnArray\HighestRankNumberInAnArray\obj\Debug\HighestRankNumberInAnArray.pdb

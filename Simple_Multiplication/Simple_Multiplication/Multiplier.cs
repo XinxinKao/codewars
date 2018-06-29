@@ -10,8 +10,19 @@ namespace Simple_Multiplication
     {
 	    public static int Multiply(int x)
 	    {
-		    // your code........
-		    return 0;
+		    if (IsOddNumber(x))
+		    {
+			    return x * 8;
+		    }
+		    else
+		    {
+			    return x * 9;
+		    }
 	    }
-	}
+
+	    private static bool IsOddNumber(int x)
+	    {
+		    return x % 2 == 0;
+	    }
+    }
 }

@@ -1,0 +1,6 @@
+C:\Users\xinyi.kao95\Desktop\github\codewars\Simple_Multiplication\Simple_Multiplication\bin\Debug\Simple_Multiplication.dll
+C:\Users\xinyi.kao95\Desktop\github\codewars\Simple_Multiplication\Simple_Multiplication\bin\Debug\Simple_Multiplication.pdb
+C:\Users\xinyi.kao95\Desktop\github\codewars\Simple_Multiplication\Simple_Multiplication\obj\Debug\Simple_Multiplication.csprojResolveAssemblyReference.cache
+C:\Users\xinyi.kao95\Desktop\github\codewars\Simple_Multiplication\Simple_Multiplication\obj\Debug\Simple_Multiplication.csproj.CoreCompileInputs.cache
+C:\Users\xinyi.kao95\Desktop\github\codewars\Simple_Multiplication\Simple_Multiplication\obj\Debug\Simple_Multiplication.dll
+C:\Users\xinyi.kao95\Desktop\github\codewars\Simple_Multiplication\Simple_Multiplication\obj\Debug\Simple_Multiplication.pdb

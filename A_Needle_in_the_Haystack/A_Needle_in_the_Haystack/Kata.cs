@@ -20,6 +20,8 @@ namespace A_Needle_in_the_Haystack
 			    count++;
 		    }
 			return string.Empty;
-	    }
+			
+			//return string.Format("found the needle at position {0}", Array.IndexOf(haystack, "needle"));
+		}
 	}
 }

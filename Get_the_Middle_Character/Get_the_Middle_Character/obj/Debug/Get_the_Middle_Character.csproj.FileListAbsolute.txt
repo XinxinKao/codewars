@@ -1,0 +1,6 @@
+C:\Users\xinyi.kao95\Desktop\github\codewars\Get_the_Middle_Character\Get_the_Middle_Character\bin\Debug\Get_the_Middle_Character.dll
+C:\Users\xinyi.kao95\Desktop\github\codewars\Get_the_Middle_Character\Get_the_Middle_Character\bin\Debug\Get_the_Middle_Character.pdb
+C:\Users\xinyi.kao95\Desktop\github\codewars\Get_the_Middle_Character\Get_the_Middle_Character\obj\Debug\Get_the_Middle_Character.csprojResolveAssemblyReference.cache
+C:\Users\xinyi.kao95\Desktop\github\codewars\Get_the_Middle_Character\Get_the_Middle_Character\obj\Debug\Get_the_Middle_Character.csproj.CoreCompileInputs.cache
+C:\Users\xinyi.kao95\Desktop\github\codewars\Get_the_Middle_Character\Get_the_Middle_Character\obj\Debug\Get_the_Middle_Character.dll
+C:\Users\xinyi.kao95\Desktop\github\codewars\Get_the_Middle_Character\Get_the_Middle_Character\obj\Debug\Get_the_Middle_Character.pdb

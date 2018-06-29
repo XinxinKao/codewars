@@ -10,7 +10,26 @@ namespace Get_the_Middle_Character
     {
 	    public static string GetMiddle(string s)
 	    {
-		    return string.Empty;
+		    if (s.Length == 0)
+		    {
+			    return string.Empty;
+		    }
+
+		    var charArray = s.ToCharArray();
+			var index = s.Length / 2;
+		    if (IsStringLengthEvenNumber(s))
+		    {
+			    return charArray[index-1] + charArray[index].ToString();
+			}
+		    else
+		    {
+			    return charArray[index].ToString();
+		    }
 	    }
-	}
+
+	    private static bool IsStringLengthEvenNumber(string s)
+	    {
+		    return s.Length % 2 == 0;
+	    }
+    }
 }

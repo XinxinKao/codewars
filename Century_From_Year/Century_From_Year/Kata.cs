@@ -10,7 +10,12 @@ namespace Century_From_Year
     {
 	    public static int СenturyFromYear(int year)
 	    {
-		    return 0;
+		    var century = 0;
+		    if (year % 100 != 0)
+		    {
+			    century = 1;
+		    }
+		    return (year / 100) + century;
 	    }
 	}
 }

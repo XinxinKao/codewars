@@ -1,0 +1,6 @@
+C:\Users\xinyi.kao95\Desktop\github\codewars\Century_From_Year\Century_From_Year\bin\Debug\Century_From_Year.dll
+C:\Users\xinyi.kao95\Desktop\github\codewars\Century_From_Year\Century_From_Year\bin\Debug\Century_From_Year.pdb
+C:\Users\xinyi.kao95\Desktop\github\codewars\Century_From_Year\Century_From_Year\obj\Debug\Century_From_Year.csprojResolveAssemblyReference.cache
+C:\Users\xinyi.kao95\Desktop\github\codewars\Century_From_Year\Century_From_Year\obj\Debug\Century_From_Year.csproj.CoreCompileInputs.cache
+C:\Users\xinyi.kao95\Desktop\github\codewars\Century_From_Year\Century_From_Year\obj\Debug\Century_From_Year.dll
+C:\Users\xinyi.kao95\Desktop\github\codewars\Century_From_Year\Century_From_Year\obj\Debug\Century_From_Year.pdb

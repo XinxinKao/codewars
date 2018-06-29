@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A_Needle_in_the_Haystack", "A_Needle_in_the_Haystack\A_Needle_in_the_Haystack.csproj", "{FCF92C8E-F35E-4930-876D-4E4142955A81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A_Needle_in_the_Haystack_Test", "A_Needle_in_the_Haystack_Test\A_Needle_in_the_Haystack_Test.csproj", "{974FBDAD-979D-416B-95F3-5267D831D5A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCF92C8E-F35E-4930-876D-4E4142955A81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCF92C8E-F35E-4930-876D-4E4142955A81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCF92C8E-F35E-4930-876D-4E4142955A81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCF92C8E-F35E-4930-876D-4E4142955A81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{974FBDAD-979D-416B-95F3-5267D831D5A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{974FBDAD-979D-416B-95F3-5267D831D5A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{974FBDAD-979D-416B-95F3-5267D831D5A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{974FBDAD-979D-416B-95F3-5267D831D5A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D46F5D39-9570-4C71-A8D3-E536BF4BAA82}
+	EndGlobalSection
+EndGlobal

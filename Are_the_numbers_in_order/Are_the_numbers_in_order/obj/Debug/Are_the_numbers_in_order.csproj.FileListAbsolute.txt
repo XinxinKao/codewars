@@ -1,0 +1,6 @@
+C:\Users\xinyi.kao95\Desktop\github\codewars\Are_the_numbers_in_order\Are_the_numbers_in_order\obj\Debug\Are_the_numbers_in_order.csprojResolveAssemblyReference.cache
+C:\Users\xinyi.kao95\Desktop\github\codewars\Are_the_numbers_in_order\Are_the_numbers_in_order\obj\Debug\Are_the_numbers_in_order.csproj.CoreCompileInputs.cache
+C:\Users\xinyi.kao95\Desktop\github\codewars\Are_the_numbers_in_order\Are_the_numbers_in_order\bin\Debug\Are_the_numbers_in_order.dll
+C:\Users\xinyi.kao95\Desktop\github\codewars\Are_the_numbers_in_order\Are_the_numbers_in_order\bin\Debug\Are_the_numbers_in_order.pdb
+C:\Users\xinyi.kao95\Desktop\github\codewars\Are_the_numbers_in_order\Are_the_numbers_in_order\obj\Debug\Are_the_numbers_in_order.dll
+C:\Users\xinyi.kao95\Desktop\github\codewars\Are_the_numbers_in_order\Are_the_numbers_in_order\obj\Debug\Are_the_numbers_in_order.pdb

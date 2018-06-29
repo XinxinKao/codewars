@@ -1,0 +1,6 @@
+C:\Users\xinyi.kao95\Desktop\github\codewars\A_Needle_in_the_Haystack\A_Needle_in_the_Haystack\bin\Debug\A_Needle_in_the_Haystack.dll
+C:\Users\xinyi.kao95\Desktop\github\codewars\A_Needle_in_the_Haystack\A_Needle_in_the_Haystack\bin\Debug\A_Needle_in_the_Haystack.pdb
+C:\Users\xinyi.kao95\Desktop\github\codewars\A_Needle_in_the_Haystack\A_Needle_in_the_Haystack\obj\Debug\A_Needle_in_the_Haystack.csprojResolveAssemblyReference.cache
+C:\Users\xinyi.kao95\Desktop\github\codewars\A_Needle_in_the_Haystack\A_Needle_in_the_Haystack\obj\Debug\A_Needle_in_the_Haystack.csproj.CoreCompileInputs.cache
+C:\Users\xinyi.kao95\Desktop\github\codewars\A_Needle_in_the_Haystack\A_Needle_in_the_Haystack\obj\Debug\A_Needle_in_the_Haystack.dll
+C:\Users\xinyi.kao95\Desktop\github\codewars\A_Needle_in_the_Haystack\A_Needle_in_the_Haystack\obj\Debug\A_Needle_in_the_Haystack.pdb

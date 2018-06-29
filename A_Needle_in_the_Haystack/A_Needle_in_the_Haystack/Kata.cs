@@ -10,7 +10,15 @@ namespace A_Needle_in_the_Haystack
     {
 	    public static string FindNeedle(object[] haystack)
 	    {
-		    //Code goes here!
+		    var count = 0;
+		    foreach (var item in haystack)
+		    {
+				if (item != null && item.ToString() == "needle")
+			    {
+				    return $"found the needle at position {count}";
+			    }
+			    count++;
+		    }
 			return string.Empty;
 	    }
 	}

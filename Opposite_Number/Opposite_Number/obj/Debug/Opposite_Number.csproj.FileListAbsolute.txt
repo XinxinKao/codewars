@@ -1,0 +1,6 @@
+C:\Users\xinyi.kao95\Desktop\github\codewars\Opposite_Number\Opposite_Number\bin\Debug\Opposite_Number.dll
+C:\Users\xinyi.kao95\Desktop\github\codewars\Opposite_Number\Opposite_Number\bin\Debug\Opposite_Number.pdb
+C:\Users\xinyi.kao95\Desktop\github\codewars\Opposite_Number\Opposite_Number\obj\Debug\Opposite_Number.csprojResolveAssemblyReference.cache
+C:\Users\xinyi.kao95\Desktop\github\codewars\Opposite_Number\Opposite_Number\obj\Debug\Opposite_Number.csproj.CoreCompileInputs.cache
+C:\Users\xinyi.kao95\Desktop\github\codewars\Opposite_Number\Opposite_Number\obj\Debug\Opposite_Number.dll
+C:\Users\xinyi.kao95\Desktop\github\codewars\Opposite_Number\Opposite_Number\obj\Debug\Opposite_Number.pdb

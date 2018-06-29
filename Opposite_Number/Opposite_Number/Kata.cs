@@ -10,8 +10,7 @@ namespace Opposite_Number
     {
 	    public static int Opposite(int number)
 	    {
-		    // Happy Coding
-		    return 0;
+		    return number * -1;
 	    }
     }
 }

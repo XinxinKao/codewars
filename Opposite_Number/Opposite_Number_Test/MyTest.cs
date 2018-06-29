@@ -11,6 +11,8 @@ namespace Opposite_Number_Test
 		public void Test_1()
 		{
 			Assert.AreEqual(-1, Kata.Opposite(1));
+			Assert.AreEqual(-14, Kata.Opposite(14));
+			Assert.AreEqual(34, Kata.Opposite(-34));
 		}
 	}
 }

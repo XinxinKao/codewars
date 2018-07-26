@@ -6,30 +6,28 @@ using System.Threading.Tasks;
 
 namespace Get_the_Middle_Character
 {
-    public class Kata
-    {
-	    public static string GetMiddle(string s)
-	    {
-		    if (s.Length == 0)
-		    {
-			    return string.Empty;
-		    }
-
-		    var charArray = s.ToCharArray();
-			var index = s.Length / 2;
-		    if (IsStringLengthEvenNumber(s))
-		    {
-			    return charArray[index-1] + charArray[index].ToString();
+	public class Kata
+	{
+		public static string GetMiddle(string s)
+		{
+			if (string.IsNullOrEmpty(s))
+			{
+				return string.Empty;
 			}
-		    else
-		    {
-			    return charArray[index].ToString();
-		    }
-	    }
 
-	    private static bool IsStringLengthEvenNumber(string s)
-	    {
-		    return s.Length % 2 == 0;
-	    }
-    }
+			var startIndex = s.Length / 2;
+
+			if (IsStringLengthEvenNumber(s))
+			{
+				return s.Substring(startIndex - 1, 2);
+			}
+
+			return s.Substring(startIndex, 1);
+		}
+
+		private static bool IsStringLengthEvenNumber(string s)
+		{
+			return s.Length % 2 == 0;
+		}
+	}
 }

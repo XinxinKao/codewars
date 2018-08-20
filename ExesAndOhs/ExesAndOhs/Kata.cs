@@ -11,7 +11,7 @@ namespace ExesAndOhs
     {
 	    public static bool XO (string input)
 	    {
-		    if (string.IsNullOrWhiteSpace(input))
+		    if (string.IsNullOrEmpty(input))
 			    return true;
 		    
 		    return CharCountInString(input,'x') == CharCountInString(input,'o');

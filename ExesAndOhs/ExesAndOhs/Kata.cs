@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace ExesAndOhs
 {
-    public class Class1
+    public class Kata
     {
+	    public static bool XO (string input)
+	    {
+
+		    return true;
+	    }
     }
 }

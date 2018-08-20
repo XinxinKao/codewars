@@ -19,7 +19,7 @@ namespace ExesAndOhs
 
 	    private static int CharCountInString(string input,char specialChar)
 	    {
-			return input.ToLower().Where(c => c == specialChar).ToArray().Length;
+		    return input.ToLower().Count(o => o == specialChar);
 	    }
     }
 }

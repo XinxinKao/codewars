@@ -1,0 +1,6 @@
+C:\Users\xinyi.kao95\Desktop\github\codewars\DigitalCypher\DigitalCypher\bin\Debug\DigitalCypher.dll
+C:\Users\xinyi.kao95\Desktop\github\codewars\DigitalCypher\DigitalCypher\bin\Debug\DigitalCypher.pdb
+C:\Users\xinyi.kao95\Desktop\github\codewars\DigitalCypher\DigitalCypher\obj\Debug\DigitalCypher.csprojResolveAssemblyReference.cache
+C:\Users\xinyi.kao95\Desktop\github\codewars\DigitalCypher\DigitalCypher\obj\Debug\DigitalCypher.csproj.CoreCompileInputs.cache
+C:\Users\xinyi.kao95\Desktop\github\codewars\DigitalCypher\DigitalCypher\obj\Debug\DigitalCypher.dll
+C:\Users\xinyi.kao95\Desktop\github\codewars\DigitalCypher\DigitalCypher\obj\Debug\DigitalCypher.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalCypher", "DigitalCypher\DigitalCypher.csproj", "{AB146A83-825E-499B-B769-ED49E2CCAB53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalCypherTest", "DigitalCypherTest\DigitalCypherTest.csproj", "{0981CC5A-259A-4B04-9822-1F8DC440978B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB146A83-825E-499B-B769-ED49E2CCAB53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB146A83-825E-499B-B769-ED49E2CCAB53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB146A83-825E-499B-B769-ED49E2CCAB53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB146A83-825E-499B-B769-ED49E2CCAB53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0981CC5A-259A-4B04-9822-1F8DC440978B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0981CC5A-259A-4B04-9822-1F8DC440978B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0981CC5A-259A-4B04-9822-1F8DC440978B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0981CC5A-259A-4B04-9822-1F8DC440978B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC80937A-EBE8-423A-B6D7-6C2E9B3FBFA3}
+	EndGlobalSection
+EndGlobal
